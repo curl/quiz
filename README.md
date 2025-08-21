@@ -24,3 +24,9 @@ the right one.
     Difficulty: [rated 1 to 10, 1 is easy, 10 is super hard]
 
     [free text comment about the answer, the question or something related]
+
+## License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Creative Commons Attribution-ShareAlike 4.0 International
