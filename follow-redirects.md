@@ -2,12 +2,12 @@
 
 Which option makes curl follow HTTP redirects?
 
-1. `--follow`
-2. `-L`
-3. `--redirect`
-4. `-R`
+1. `-L, --location`
+2. `--max-redirs <num>`
+3. `--post301`
+4. `--proto-redir <protocols>`
 
-Correct: 2
+Correct: 1
 Difficulty: 2
 
-`-L` is the short option for following redirects automatically
+`-L, --location` is the option for following redirects automatically
