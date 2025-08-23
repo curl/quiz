@@ -2,7 +2,7 @@
 
 Which flag can be used to override the HTTP method used by curl?
 
-1. `--request <method>`
+1. `--ftp-method <method>`
 2. `--method <method>`
 3. `-X, --request <method>`
 4. `--override <method>`
